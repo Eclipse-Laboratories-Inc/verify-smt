@@ -1,3 +1,7 @@
+# SMT verify which can be used in Solana contract
+
+This is the verify program of the [Spares-Merkle-Tree](https://github.com/Eclipse-Laboratories-Inc/sparse-merkle-tree) which can be used in Solana contract, since we replaced blake2b_rs with blake2_rfc.
+
 # Build and test for program compiled natively
 
 ### Environment Setup
